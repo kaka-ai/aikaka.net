@@ -1,4 +1,4 @@
-# Website aikaka.net
+# Main Website
 
 ## Build Setup
 
